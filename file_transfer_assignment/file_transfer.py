@@ -3,7 +3,6 @@ from tkinter import *
 import tkinter.filedialog
 import os
 import shutil
-import time
 import datetime
 
 
